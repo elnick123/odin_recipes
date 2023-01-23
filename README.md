@@ -1,5 +1,3 @@
-# odin_recipes
-
 # HTML recipe project
 
 ## About
